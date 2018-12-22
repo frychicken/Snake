@@ -1,8 +1,6 @@
-# Snake
+# SnakeGame
 
 ### Only compatible with Windows atm 
-
-### non-visual studio project is [here](https://github.com/frychicken/SnakeGame)
 
 ## What is this?
 
@@ -19,6 +17,10 @@ fix snake+bugs
 ```
 Project -> properties -> configuration -> C/C++ -> Code Generation  -> runtime library (Debug): /Mtd; --> Runtime library (release) -> /MT
 ```
+
+##
+
+SnakeGame.cpp is the one-file game
 
 ### Credit
 
